@@ -1,5 +1,5 @@
 export class Main {
-    berlinClock(date) {
+    ligne1minute(minute) {
       
     }
 
